@@ -1,2 +1,7 @@
-package enumClasses 
+package enumClasses
 
+enum class State {
+    GREEN,
+    YELLOW,
+    RED,
+}
